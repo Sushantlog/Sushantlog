@@ -1,2 +1,2 @@
 # Sushantlog
- phyton learn
+ Phyton,Java,C++,DSA
